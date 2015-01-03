@@ -1,5 +1,3 @@
-var test = [1, 12, 5, 26, 7, 14, 3, 7, 2];
-
 /*
 	Plain Insertion Sort
 	Shifts values instead of swapping

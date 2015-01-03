@@ -1,7 +1,4 @@
-var test = [1, 12, 5, 26, 7, 14, 3, 7, 2];
-
 /*
-
 	QuickSort 
 	Complexity: O(n log n)
 
